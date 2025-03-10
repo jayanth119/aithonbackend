@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Red Cross Blood Bank",
+        "pincode": "500001",
+        "district": "Hyderabad",
+        "state": "Telangana",
+        "latitude": 17.385,
+        "longitude": 78.4867,
+        "available_blood_groups": {
+            "A+": 10,
+            "A-": 5,
+            "B+": 8,
+            "B-": 3,
+            "O+": 12,
+            "O-": 2,
+            "AB+": 6,
+            "AB-": 1
+        }
+    },
+    {
+        "name": "LifeSaver Blood Bank",
+        "pincode": "600001",
+        "district": "Chennai",
+        "state": "Tamil Nadu",
+        "latitude": 13.0827,
+        "longitude": 80.2707,
+        "available_blood_groups": {
+            "A+": 7,
+            "A-": 2,
+            "B+": 5,
+            "B-": 1,
+            "O+": 9,
+            "O-": 0,
+            "AB+": 4,
+            "AB-": 2
+        }
+    },
+    {
+        "name": "City Hospital Blood Bank",
+        "pincode": "110001",
+        "district": "New Delhi",
+        "state": "Delhi",
+        "latitude": 28.6139,
+        "longitude": 77.209,
+        "available_blood_groups": {
+            "A+": 15,
+            "A-": 7,
+            "B+": 10,
+            "B-": 4,
+            "O+": 20,
+            "O-": 5,
+            "AB+": 8,
+            "AB-": 3
+        }
+    }
+]
